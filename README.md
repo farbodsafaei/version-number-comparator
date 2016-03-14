@@ -16,4 +16,4 @@ When sorting, just pass a comparator instance:
 List<String> list = new ArrayList<String>();
 list.sort(new NumericalVersionComparator());
 ```
-or just simply use the compare in NumericalVersionComparator method if needed.
+or just simply use the compare() method in NumericalVersionComparator as needed.
