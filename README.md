@@ -14,6 +14,8 @@ There is no limit in length of a string.
 When sorting, just pass a comparator instance:
 ```java
 List<String> list = new ArrayList<String>();
+list.add("1.2.3.4");
+list.add("1.0.2");
 list.sort(new NumericalVersionComparator());
 ```
 or just simply use the compare() method in NumericalVersionComparator as needed.
