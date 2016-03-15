@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/farbodsafaei/version-number-comparator.svg?branch=master)](https://travis-ci.org/farbodsafaei/version-number-comparator)
-# version-number-comparator
+# version-number-comparator [![Build Status](https://travis-ci.org/farbodsafaei/version-number-comparator.svg?branch=master)](https://travis-ci.org/farbodsafaei/version-number-comparator)
 
 A simple string comparator for comparing two given values representing software versions constructed by only numbers (0 to 9) and dots as separators. It compares two strings that are formatted in a typical software version format using only numbers and dots. 
 The comparator assumes only numeric versions are supplied, except for dot separators.
