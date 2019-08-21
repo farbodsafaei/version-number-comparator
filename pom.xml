@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.binaryheart.common</groupId>
 	<artifactId>version-number-comparator</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>version-number-comparator</name>
 	<description>A simple string comparator for comparing two given values representing software versions constructed by only numbers (0 to 9) and dots as separators</description>
 	
